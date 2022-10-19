@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nefflix/static/css/main.5d07abcd.css",
+    "main.js": "/Nefflix/static/js/main.be530a81.js",
+    "index.html": "/Nefflix/index.html",
+    "main.5d07abcd.css.map": "/Nefflix/static/css/main.5d07abcd.css.map",
+    "main.be530a81.js.map": "/Nefflix/static/js/main.be530a81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d07abcd.css",
+    "static/js/main.be530a81.js"
+  ]
+}
